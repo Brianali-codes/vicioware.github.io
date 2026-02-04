@@ -1016,7 +1016,175 @@ document.addEventListener('DOMContentLoaded', () => {
         ],
         'aeternoblade': [
             { text: 'Descargar AeternoBlade', url: 'https://www.mediafire.com/file/587mjb6g149ippf/43t3rn8Bl4d3_Bu1ld_5576930.rar/file' }
+        ],
+        'from-glory-goo': [
+            { text: 'Descargar From Glory To Goo', url: 'https://www.mediafire.com/file/3why9qoe4ghmjb3/Fr8m_Gl8ry_T8_G88_v0_1b.rar/file' }
+        ],
+        'zed-zone': [
+            { text: 'Descargar Zed Zone', url: 'https://www.mediafire.com/file/5tg5xxtvvlzx2us/Z3D.Z8N3.v0.62.6.0.8.rar/file' }
+        ],
+        'outcast': [
+            { text: 'Descargar Outcast', url: 'https://www.mediafire.com/file/w13q0awhfcmz3ma/g4m3-8utc4st-%252819502%2529.rar/file' }
+        ],
+        'wrath-aeon-ruin': [
+            { text: 'Descargar WRATH: Aeon of Ruin', url: 'https://www.mediafire.com/file/ughykthkpycpqy2/sr-wr4th438n8fruin.rar/file' }
+        ],
+        'zombie-night-terror': [
+            { text: 'Descargar Zombie Night Terror', url: 'https://www.mediafire.com/file/5x7vw1cdg56ghs8/Z8mbi3_Night_T3rr8r_v1.5.2.rar/file' }
+        ],
+        'shadowgrounds': [
+            { text: 'Descargar Shadowgrounds', url: 'https://www.mediafire.com/file/0zgsjrviza0jh11/Sh4d8wgr8unds_-_G8G.rar/file' }
+        ],
+        'war-tortoise': [
+            { text: 'Descargar War Tortoise', url: 'https://www.mediafire.com/file/kj8pli7f1kpayhx/sr-w4rt8rt81s3.rar/file', readMoreText: '- Una vez instalado el juego, abre el archivo "steam_api.ini", y en el parámetro "Language", cambia "english" por "spanish" para tener el juego en español.\n- Recuerda bajar los gráficos dentro del juego si vas a jugarlo en una PC de bajos recursos.' }
+        ],
+        'rain-world': [
+            { text: 'Descargar Rain World', url: 'https://www.mediafire.com/file/w6www32d2hmw6rn/R41n_W8rld_v1.10.0.rar/file' }
+        ],
+        'greed-black-border': [
+            { text: 'Descargar Greed: Black Border', url: 'https://www.mediafire.com/file/8w0l5yrk98terxn/GR33D_-_Bl4ck_B8rd3r.rar/file' }
+        ],
+        'cliff-empire': [
+            { text: 'Descargar Cliff Empire', url: 'https://www.mediafire.com/file/knpi0o8pmrolhqf/Cl1ff.3mp1r3.v1.34.rar/file' }
+        ],
+        'axiom-verge': [
+            { text: 'Descargar Axiom Verge', url: 'https://www.mediafire.com/file/r96xuszpilwpmij/4x18m_V3rg3_1.48.rar/file' }
+        ],
+        'bloodstained-cotm': [
+            { text: 'Descargar Bloodstained: Curse of the Moon', url: 'https://www.mediafire.com/file/flqausd672axruq/B0CRs3-PGM.rar/file' }
+        ],
+        'nhl06': [
+            { text: 'Descargar NHL 06', url: 'https://www.mediafire.com/file/itsojf1uquu37en/NHL_06.rar/file' }
+        ],
+        'mega-city-police': [
+            { text: 'Descargar Mega City Police', url: 'https://www.mediafire.com/file/mm43q3tkskm8jb4/m3g4.c1ty.p8l1c3.rar/file' }
+        ],
+        'lords-of-exile': [
+            { text: 'Descargar Lords of Exile', url: 'https://www.mediafire.com/file/opa6cu87yyr9hkp/L8rds.8f.3x1l3.rar/file' }
+        ],
+        'travellers-rest': [
+            { text: 'Descargar Travellers Rest', url: 'https://www.mediafire.com/file/7jgpg3j3tmqeypr/Tr4v3ll3rs.R3st.v0.6.3.12.rar/file' }
+        ],
+        'royal-marines-commando': [
+            { text: 'Descargar The Royal Marines Commando', url: 'https://www.mediafire.com/file/8covxu2cbr8mkkz/Th3_R8y4l_M4r1n3s_C8mm4nd8_MULT16.rar/file' }
+        ],
+        'darkest-of-days': [
+            { text: 'Descargar Darkest of Days', url: 'https://www.mediafire.com/file/eh7oujjqmdcvd8n/D4rk3st_8f_D4ys.rar/file' }
+        ],
+        'rayman-redemption': [
+            { text: 'Descargar Rayman Redemption', url: 'https://www.mediafire.com/file/52pxquthhf8nshc/R4ym4n_R3d3mpt8on.rar/file' }
+        ],
+        'wots4': [
+            { text: 'Descargar Way of the Samurai 4', url: 'https://www.mediafire.com/file/ip4gbpfuvy5ewj6/W4y.of.th3.S4mur48.4.v1.06.2.rar/file' }
+        ],
+        'wots3': [
+            { text: 'Descargar Way of the Samurai 3', url: 'https://www.mediafire.com/file/drg5gi2ovepi0zb/W4y_of_th3_S4mur48_3.rar/file' }
+        ],
+        'venetica': [
+            { text: 'Descargar Venetica', url: 'https://www.mediafire.com/file/3v361m52j41iofc/v3n3t8c4gold3d8t8on.rar/file' }
+        ],
+        'urban-trial-freestyle': [
+            { text: 'Descargar Urban Trial Freestyle', url: 'https://www.mediafire.com/file/cz5nwolax8tfqri/Urb4n.Tr84l.Fr33styl3.rar/file' }
+        ],
+        'true-crime-sla': [
+            { text: 'Descargar True Crime: Streets of LA', url: 'https://www.mediafire.com/file/jqqnfozmqsq6ag8/Tru3_Cr8m3_Str33ts_of_L.4.rar/file' }
+        ],
+        'tron-evolution': [
+            { text: 'Descargar Tron Evolution', url: 'https://www.mediafire.com/file/fjx3d8i9ybarjju/Trron.3volut8on.rar/file' }
+        ],
+        'trapped-dead': [
+            { text: 'Descargar Trapped Dead', url: 'https://www.mediafire.com/file/hlbo8lxiqp9nbew/Tr4pp3d_D34d.rar/file' }
+        ],
+        'the-inquisitor-book2': [
+            { text: 'Descargar The Inquisitor Book II: The Village', url: 'https://www.mediafire.com/file/shtxb4tyb0w123t/Th3_8nqu8s8tor_Book_88.rar/file' }
+        ],
+        'the-final-station': [
+            { text: 'Descargar The Final Station', url: 'https://www.mediafire.com/file/3ryier0u1l96daw/th3_f8n4l_st4t8on-%252819763%2529.rar/file' }
+        ],
+        'swag-and-sorcery': [
+            { text: 'Descargar Swag and Sorcery', url: 'https://www.mediafire.com/file/8zu5zzvmhk8bull/Sw4g_4nd_Sorc3ry_1.024.rar/file' }
+        ],
+        'stolen': [
+            { text: 'Descargar Stolen', url: 'https://www.mediafire.com/file/45e3cpwyu6kd9iz/Stol3n_PC.rar/file' }
+        ],
+        'sonic-riders': [
+            { text: 'Descargar Sonic Riders', url: 'https://www.mediafire.com/file/0irqgfozz020zuv/Son8c_R8d3rs.rar/file' }
+        ],
+        'sim-city5': [
+            { text: 'Descargar SimCity 5 (2013)', url: 'https://www.mediafire.com/file/5ph4ey969fs7g12/S8mC8ty_D3lux3_3d8t8on-3l4m8gos.rar/file' }
+        ],
+        'sid-meiers-pirates': [
+            { text: 'Descargar Sid Meier’s Pirates!', url: 'https://www.mediafire.com/file/4erfusx8a9wgffd/S8d_M383rs_P8r4t3s.rar/file' }
+        ],
+        'rapala-pro-fishing': [
+            { text: 'Descargar Rapala Pro Fishing', url: 'https://www.mediafire.com/file/rbj2paspfvfga10/R4p4l4_Pro_F8sh8ng.rar/file' }
+        ],
+        'planetbase': [
+            { text: 'Descargar Planetbase', url: 'https://www.mediafire.com/file/wctzs2wglm7yu0r/Pl4netb4se.rar/file' }
+        ],
+        'moto-racer2': [
+            { text: 'Descargar Moto Racer 2', url: 'https://www.mediafire.com/file/w1dmobsnqgekto8/M8t8_R4cer_2_G8G.rar/file' }
+        ],
+        'kottic': [
+            { text: 'Descargar Knights of The Temple: Infernal Crusade', url: 'https://www.mediafire.com/file/4qeii0fzdta0kz4/Kn1ghts_8f_The_Temple_1nfern4l_Crus4de.rar/file' }
+        ],
+        'loki': [
+            { text: 'Descargar Loki', url: 'https://www.mediafire.com/file/ckx75t72ssw4bsu/L8k1_MULT16_-_El4m1g8s.rar/file' }
+        ],
+        'igi2': [
+            { text: 'Descargar I.G.I.-2: Covert Strike', url: 'https://www.mediafire.com/file/klic9xn1yltlp8u/1G1_2_-_C8vert_Str1ke.rar/file' }
+        ],
+        'hitman-codename47': [
+            { text: 'Descargar Hitman: Codename 47', url: 'https://www.mediafire.com/file/p8rm87im85y3n7n/H1tm4n_C8den4me_47_-_G8G.rar/file' }
+        ],
+        'hidden-deep': [
+            { text: 'Descargar Hidden Deep', url: 'https://www.mediafire.com/file/e5p3rsmqfkh9ai9/H1dden.Deep.Bu1ld.10387199.rar/file' }
+        ],
+        'homam3': [
+            { text: 'Descargar Heroes of Might and Magic III', url: 'https://www.mediafire.com/file/kzkmavzjyokns1d/Her8es_8f_M1ght_4nd_M4g1c_111_HD_Ed1t18n_1.18.rar/file' }
         ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
