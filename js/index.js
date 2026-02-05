@@ -805,9 +805,6 @@ document.addEventListener('DOMContentLoaded', () => {
         'gta-chinatown': [
             { text: 'Descargar GTA: Chinatown Wars', url: 'https://www.mediafire.com/file/fndsipnccxfqxfq/Gt4_Ch1n4t8wn_W4rs.rar/file' }
         ],
-        'power-rangers-bftg': [
-            { text: 'Descargar Power Rangers: Battle for the Grid', url: 'https://www.mediafire.com/file/fbv2oybd1vsxuze/P0w3r_R7ng3rs_B7ttl3_f0r_th3_Gr1d_2.9.1.rar/file' }
-        ],
         'mk4': [
             { text: 'Descargar Mortal Kombat 4', url: 'https://www.mediafire.com/file/2edptib063gsl21/M8rt4l_K8mb4t_4_%2528MK4%2529_%25E2%2580%2593_G8G.rar/file' }
         ],
@@ -917,7 +914,7 @@ document.addEventListener('DOMContentLoaded', () => {
             { text: 'Descargar Rollercoaster Tycoon Adventures', url: 'https://www.mediafire.com/file/a08ublx6nwpepmk/R8ll3rc84st3r.Tyc88n.4dv3ntur3s-H88DLUM.rar/file' }
         ],
         'rollercoaster-tycoon3': [
-            { text: 'Descargar RollerCoaster Tycoon 3 Complete Edition', url: 'https://www.mediafire.com/file/35wiob9yjfk02qg/R8ll3r.C84st3r.Tyc88n.3_v3.2.5.13.rar/file', readMoreText: 'Contiene los siguientes títulos:\n- RollerCoaster Tycoon 3\n- RollerCoaster Tycoon 3: Soaked!\n- RollerCoaster Tycoon 3: Wild!' }
+            { text: 'Descargar RollerCoaster Tycoon 3', url: 'https://www.mediafire.com/file/35wiob9yjfk02qg/R8ll3r.C84st3r.Tyc88n.3_v3.2.5.13.rar/file', readMoreText: 'Contiene los siguientes títulos:\n- RollerCoaster Tycoon 3\n- RollerCoaster Tycoon 3: Soaked!\n- RollerCoaster Tycoon 3: Wild!' }
         ],
         'kof-2003': [
             { text: 'Descargar The King of Fighters 2003', url: 'https://www.mediafire.com/file/8shxngp6lbvc8dn/Th3_K1ng_8f_F1ght3rs_2003_-_G8G.rar/file' }
@@ -1143,6 +1140,15 @@ document.addEventListener('DOMContentLoaded', () => {
         'homam3': [
             { text: 'Descargar Heroes of Might and Magic III', url: 'https://www.mediafire.com/file/kzkmavzjyokns1d/Her8es_8f_M1ght_4nd_M4g1c_111_HD_Ed1t18n_1.18.rar/file' }
         ]
+
+
+
+
+
+
+
+
+
 
 
 
