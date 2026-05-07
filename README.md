@@ -4,7 +4,7 @@ This website is designed with a single mission: to revive those gems that don't 
 
 The idea is to keep it simple and functional. No fuss:
 
--Quick search: Find that nostalgic game instantly.
--Order and progress: Explore the catalog alphabetically or filter by the first letter.
--Direct downloads: Forget about link shorteners, waiting (5) seconds, or dodging pop-ups.
--Zero ads: A clean experience, made by gamers for gamers. Let's get playing!
+- Quick search: Find that nostalgic game instantly.
+- Order and progress: Explore the catalog alphabetically or filter by the first letter.
+- Direct downloads: Forget about link shorteners, waiting (5) seconds, or dodging pop-ups.
+- Zero ads: A clean experience, made by gamers for gamers. Let's get playing!
