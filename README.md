@@ -12,6 +12,9 @@ La idea es mantenerlo simple y funcional. Nada de vueltas:
 A jugar de una buena vez.
 
 
+###
+
+
 This website is designed with a single mission: to revive those gems that don't require a powerful GPU to run. If your PC struggles to open two Chrome tabs or you own one of those legendary government-issued laptops, this site is for you.
 
 ### What does the website offer?
