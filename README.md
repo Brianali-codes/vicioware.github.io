@@ -8,3 +8,7 @@ The idea is to keep it simple and functional. No fuss:
 - Order and progress: Explore the catalog alphabetically or filter by the first letter.
 - Direct downloads: Forget about link shorteners, waiting (5) seconds, or dodging pop-ups.
 - Zero ads: A clean experience, made by gamers for gamers. Let's get playing!
+
+### Disclaimer
+
+I do not own the copies or the source code of the website, all games should be bought from the official stores as i do not support video game or any form of piracy, this is strictly for educational purposes
