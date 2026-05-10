@@ -383,7 +383,7 @@ header.site-header {
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
     position: relative;
     overflow: hidden;
-    font-family: 'Manrope Regular', 'Manrope', sans-serif;
+    font-family: "Audiowide", sans-serif;
 }
 
 #modalDownloadLinks a::before {
@@ -622,7 +622,7 @@ header.site-header {
     border-radius: 8px;
     cursor: pointer;
     font-size: 0.9em;
-    font-family: 'Manrope', sans-serif;
+    font-family: "Audiowide", sans-serif;
     transition: all 0.3s ease;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
@@ -661,7 +661,7 @@ header.site-header {
     position: relative;
     overflow: hidden;
     border: none !important;
-    font-family: 'Manrope Regular', 'Manrope', sans-serif;
+    font-family: "Audiowide", sans-serif;
     cursor: pointer;
     width: 100% !important;
     margin-bottom: 8px !important;
@@ -855,7 +855,7 @@ body.modal-blur-active>*:not(#downloadModal):not(#detailsModal):not(#partsModal)
     color: #bdbdbd;
     padding: 6px 12px;
     border-radius: 8px;
-    font-family: 'Manrope', sans-serif;
+   font-family: "Audiowide", sans-serif;
     font-size: 0.9em;
     font-weight: 500;
     cursor: pointer;
@@ -991,7 +991,7 @@ body.modal-blur-active>*:not(#downloadModal):not(#detailsModal):not(#partsModal)
     padding: 8px;
     border-radius: 6px;
     cursor: pointer;
-    font-family: 'Manrope', sans-serif;
+    font-family: "Audiowide", sans-serif;
     font-size: 0.9em;
     transition: all 0.2s ease;
 }
