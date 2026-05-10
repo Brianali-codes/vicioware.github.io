@@ -1971,7 +1971,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     const readMoreToggle = document.createElement('span');
                     readMoreToggle.className = 'read-more-toggle';
-                    readMoreToggle.textContent = '';
+                    readMoreToggle.textContent = 'Details';
 
 
                     const detailsText = linkInfo.readMoreText;
@@ -1994,7 +1994,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         } else {
             const listItem = document.createElement('li');
-            listItem.textContent = 'No hay enlaces de descarga disponibles para este juego.';
+            listItem.textContent = 'There are no download links available for this game.';
             modalDownloadLinksList.appendChild(listItem);
             console.warn('No se encontraron enlaces de descarga para el juego:', gameId);
         }
