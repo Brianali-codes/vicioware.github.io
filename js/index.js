@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function openPartsModal(parts, gameId) {
 
         const gameName = modalGameTitle.textContent;
-        partsModalTitle.textContent = `Seleccionar Part`;
+        partsModalTitle.textContent = `Select Part`;
         partsContainer.innerHTML = '';
 
         parts.forEach((part, index) => {
