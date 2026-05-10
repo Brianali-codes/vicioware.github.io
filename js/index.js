@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function openPartsModal(parts, gameId) {
 
         const gameName = modalGameTitle.textContent;
-        partsModalTitle.textContent = `Seleccionar parte`;
+        partsModalTitle.textContent = `Seleccionar Part`;
         partsContainer.innerHTML = '';
 
         parts.forEach((part, index) => {
@@ -150,10 +150,10 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Dead Space',
                 parts: [
-                    { text: 'Parte 1', url: 'https://rapidshare.co/en/d/yo8qFSaU3ICHXR' },
-                    { text: 'Parte 2', url: 'https://rapidshare.co/en/d/BmwqHhDb1IGqDq' },
-                    { text: 'Parte 3', url: 'https://rapidshare.co/en/d/mV6eSdjw1Li9qF' },
-                    { text: 'Parte 4', url: 'https://rapidshare.co/en/d/pv7v3WHN74JHIu' }
+                    { text: 'Part 1', url: 'https://rapidshare.co/en/d/yo8qFSaU3ICHXR' },
+                    { text: 'Part 2', url: 'https://rapidshare.co/en/d/BmwqHhDb1IGqDq' },
+                    { text: 'Part 3', url: 'https://rapidshare.co/en/d/mV6eSdjw1Li9qF' },
+                    { text: 'Part 4', url: 'https://rapidshare.co/en/d/pv7v3WHN74JHIu' }
                 ]
             }
         ],
@@ -161,9 +161,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Dead Space 2',
                 parts: [
-                    { text: 'Parte 1', url: 'https://rapidshare.co/en/d/UeXMFiyuv1TmtQ' },
-                    { text: 'Parte 2', url: 'https://rapidshare.co/en/d/d0sauQDTj60K7x' },
-                    { text: 'Parte 3', url: 'https://rapidshare.co/en/d/I8Hn85I7H8QtFK' }
+                    { text: 'Part 1', url: 'https://rapidshare.co/en/d/UeXMFiyuv1TmtQ' },
+                    { text: 'Part 2', url: 'https://rapidshare.co/en/d/d0sauQDTj60K7x' },
+                    { text: 'Part 3', url: 'https://rapidshare.co/en/d/I8Hn85I7H8QtFK' }
                 ]
             }
         ],
@@ -171,13 +171,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Dead Space 3',
                 parts: [
-                    { text: 'Parte 1', url: 'https://rapidshare.co/en/d/rb85h9EyANiqSI' },
-                    { text: 'Parte 2', url: 'https://rapidshare.co/en/d/fQjBweUPQS506q' },
-                    { text: 'Parte 3', url: 'https://rapidshare.co/en/d/sRdLy4NKcTfQIP' },
-                    { text: 'Parte 4', url: 'https://rapidshare.co/en/d/wcw67QeXI5gU5j' },
-                    { text: 'Parte 5', url: 'https://rapidshare.co/en/d/x0JLK54NwTWNGg' },
-                    { text: 'Parte 6', url: 'https://rapidshare.co/en/d/fO28odU9HPTiTv' },
-                    { text: 'Parte 7', url: 'https://rapidshare.co/en/d/b2gxytlfBi2zEk' }
+                    { text: 'Part 1', url: 'https://rapidshare.co/en/d/rb85h9EyANiqSI' },
+                    { text: 'Part 2', url: 'https://rapidshare.co/en/d/fQjBweUPQS506q' },
+                    { text: 'Part 3', url: 'https://rapidshare.co/en/d/sRdLy4NKcTfQIP' },
+                    { text: 'Part 4', url: 'https://rapidshare.co/en/d/wcw67QeXI5gU5j' },
+                    { text: 'Part 5', url: 'https://rapidshare.co/en/d/x0JLK54NwTWNGg' },
+                    { text: 'Part 6', url: 'https://rapidshare.co/en/d/fO28odU9HPTiTv' },
+                    { text: 'Part 7', url: 'https://rapidshare.co/en/d/b2gxytlfBi2zEk' }
                 ]
             }
         ],
@@ -194,11 +194,11 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Postal 2',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/mrsm05ufxazkehu/P2CPG.GamezFull.com.part1.rar/file' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/2hc0bux8d192hs7/P2CPG.GamezFull.com.part2.rar/file' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/xyy6kp1e2efcikp/P2CPG.GamezFull.com.part3.rar/file' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/xc4xs641yb5f35w/P2CPG.GamezFull.com.part4.rar/file' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/o13xhha8pinivp6/P2CPG.GamezFull.com.part5.rar/file' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/mrsm05ufxazkehu/P2CPG.GamezFull.com.part1.rar/file' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/2hc0bux8d192hs7/P2CPG.GamezFull.com.part2.rar/file' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/xyy6kp1e2efcikp/P2CPG.GamezFull.com.part3.rar/file' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/xc4xs641yb5f35w/P2CPG.GamezFull.com.part4.rar/file' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/o13xhha8pinivp6/P2CPG.GamezFull.com.part5.rar/file' }
                 ]
             }
         ],
@@ -206,15 +206,15 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Call of Duty 4: Modern Warfare',
                 parts: [
-                    { text: 'Parte 1', url: 'https://drive.usercontent.google.com/download?id=1vR01prco1VXQ1YCEAVvFmTksLxyEvO7H&authuser=0' },
-                    { text: 'Parte 2', url: 'https://drive.usercontent.google.com/download?id=1LrtO1-MAxXZu6pzgo6IFFEM5FWFvSjgu&authuser=0' },
-                    { text: 'Parte 3', url: 'https://drive.usercontent.google.com/download?id=1du3nxQj5XTuolIm4CSNBWxjz9dQ7PKAx&authuser=0' },
-                    { text: 'Parte 4', url: 'https://drive.usercontent.google.com/download?id=1Q96yRNbcfTMU7FlcmIj-LdCCBaX0voti&authuser=0' },
-                    { text: 'Parte 5', url: 'https://drive.usercontent.google.com/download?id=1vfUhUkhT4zdYEKYQ_fxSLcAeF-kRuaHX&authuser=0' },
-                    { text: 'Parte 6', url: 'https://drive.usercontent.google.com/download?id=1hr4Hx3hKCjdcsXUrEbdYCi5I30b5_5kX&authuser=0' },
-                    { text: 'Parte 7', url: 'https://drive.usercontent.google.com/download?id=1Oh9-Csoiu6SBQg-wYhjWyn-JaO_Yzuof&authuser=0' },
-                    { text: 'Parte 8', url: 'https://drive.usercontent.google.com/download?id=1UezTWvP5uiIgcj_f1oDJ20YgK16N6Fev&authuser=0' },
-                    { text: 'Parte 9', url: 'https://drive.usercontent.google.com/download?id=1s02qBfEGUQPRPl05ipiMSpbSdYY4pgYr&authuser=0' }
+                    { text: 'Part 1', url: 'https://drive.usercontent.google.com/download?id=1vR01prco1VXQ1YCEAVvFmTksLxyEvO7H&authuser=0' },
+                    { text: 'Part 2', url: 'https://drive.usercontent.google.com/download?id=1LrtO1-MAxXZu6pzgo6IFFEM5FWFvSjgu&authuser=0' },
+                    { text: 'Part 3', url: 'https://drive.usercontent.google.com/download?id=1du3nxQj5XTuolIm4CSNBWxjz9dQ7PKAx&authuser=0' },
+                    { text: 'Part 4', url: 'https://drive.usercontent.google.com/download?id=1Q96yRNbcfTMU7FlcmIj-LdCCBaX0voti&authuser=0' },
+                    { text: 'Part 5', url: 'https://drive.usercontent.google.com/download?id=1vfUhUkhT4zdYEKYQ_fxSLcAeF-kRuaHX&authuser=0' },
+                    { text: 'Part 6', url: 'https://drive.usercontent.google.com/download?id=1hr4Hx3hKCjdcsXUrEbdYCi5I30b5_5kX&authuser=0' },
+                    { text: 'Part 7', url: 'https://drive.usercontent.google.com/download?id=1Oh9-Csoiu6SBQg-wYhjWyn-JaO_Yzuof&authuser=0' },
+                    { text: 'Part 8', url: 'https://drive.usercontent.google.com/download?id=1UezTWvP5uiIgcj_f1oDJ20YgK16N6Fev&authuser=0' },
+                    { text: 'Part 9', url: 'https://drive.usercontent.google.com/download?id=1s02qBfEGUQPRPl05ipiMSpbSdYY4pgYr&authuser=0' }
                 ]
             }
         ],
@@ -266,8 +266,8 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Assassin\'s Creed',
                 parts: [
-                    { text: 'Parte 1', url: 'https://rapidshare.co/en/d/vEj0YHJOFHMgF8' },
-                    { text: 'Parte 2', url: 'https://rapidshare.co/en/d/trIeSL6rItGv1R' }
+                    { text: 'Part 1', url: 'https://rapidshare.co/en/d/vEj0YHJOFHMgF8' },
+                    { text: 'Part 2', url: 'https://rapidshare.co/en/d/trIeSL6rItGv1R' }
                 ]
             }
         ],
@@ -326,11 +326,11 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download PowerWash Simulator',
                 parts: [
-                    { text: 'Parte 1', url: 'https://rapidshare.co/en/d/hpzZRgK2EhrCnf' },
-                    { text: 'Parte 2', url: 'https://rapidshare.co/en/d/f4R4STgh5MjGnk' },
-                    { text: 'Parte 3', url: 'https://rapidshare.co/en/d/Yw8ppRdHLPBZ9x' },
-                    { text: 'Parte 4', url: 'https://rapidshare.co/en/d/gPfaS53XQ1Snkk' },
-                    { text: 'Parte 5', url: 'https://rapidshare.co/en/d/bH8OirQIMAZpTW' }
+                    { text: 'Part 1', url: 'https://rapidshare.co/en/d/hpzZRgK2EhrCnf' },
+                    { text: 'Part 2', url: 'https://rapidshare.co/en/d/f4R4STgh5MjGnk' },
+                    { text: 'Part 3', url: 'https://rapidshare.co/en/d/Yw8ppRdHLPBZ9x' },
+                    { text: 'Part 4', url: 'https://rapidshare.co/en/d/gPfaS53XQ1Snkk' },
+                    { text: 'Part 5', url: 'https://rapidshare.co/en/d/bH8OirQIMAZpTW' }
                 ]
             },
             { text: 'Download actualización v29.05.2025', url: 'https://www.mediafire.com/file/fnjsbc6ckom2g7a/Pow1erWa6shSi-Update29.05.2025-elamigos.rar/file' }
@@ -339,15 +339,15 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Mafia II',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/b5vlxh753wt68gj/MIIPG.Update5.GamezFull.com.part01.rar/file' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/gyngoc9ctowvvos/MIIPG.Update5.GamezFull.com.part02.rar/file' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/8iilv1kqfy1p79x/MIIPG.Update5.GamezFull.com.part03.rar/file' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/at9zhpebjfkrgmh/MIIPG.Update5.GamezFull.com.part04.rar/file' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/k78bbxldr2307tn/MIIPG.Update5.GamezFull.com.part05.rar/file' },
-                    { text: 'Parte 6', url: 'https://www.mediafire.com/file/178yl2dv95cvwop/MIIPG.Update5.GamezFull.com.part06.rar/file' },
-                    { text: 'Parte 7', url: 'https://www.mediafire.com/file/xgg8gv1ssymioz4/MIIPG.Update5.GamezFull.com.part07.rar/file' },
-                    { text: 'Parte 8', url: 'https://www.mediafire.com/file/5jm37nxrjg5iyeb/MIIPG.Update5.GamezFull.com.part08.rar/file' },
-                    { text: 'Parte 9', url: 'https://www.mediafire.com/file/6wi420szsk3pdwv/MIIPG.Update5.GamezFull.com.part09.rar/file' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/b5vlxh753wt68gj/MIIPG.Update5.GamezFull.com.part01.rar/file' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/gyngoc9ctowvvos/MIIPG.Update5.GamezFull.com.part02.rar/file' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/8iilv1kqfy1p79x/MIIPG.Update5.GamezFull.com.part03.rar/file' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/at9zhpebjfkrgmh/MIIPG.Update5.GamezFull.com.part04.rar/file' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/k78bbxldr2307tn/MIIPG.Update5.GamezFull.com.part05.rar/file' },
+                    { text: 'Part 6', url: 'https://www.mediafire.com/file/178yl2dv95cvwop/MIIPG.Update5.GamezFull.com.part06.rar/file' },
+                    { text: 'Part 7', url: 'https://www.mediafire.com/file/xgg8gv1ssymioz4/MIIPG.Update5.GamezFull.com.part07.rar/file' },
+                    { text: 'Part 8', url: 'https://www.mediafire.com/file/5jm37nxrjg5iyeb/MIIPG.Update5.GamezFull.com.part08.rar/file' },
+                    { text: 'Part 9', url: 'https://www.mediafire.com/file/6wi420szsk3pdwv/MIIPG.Update5.GamezFull.com.part09.rar/file' }
                 ]
             }
         ],
@@ -355,12 +355,12 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Hitman: Blood Money',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/ry55hdmvtrjnte3/HBMPG.GamezFull.part1.rar' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/01fiaobbb3l9qyk/HBMPG.GamezFull.part2.rar' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/angujsh5kmw3br1/HBMPG.GamezFull.part3.rar' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/m1w7c880a26trt4/HBMPG.GamezFull.part4.rar' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/bi5newenlkuyyvj/HBMPG.GamezFull.part5.rar' },
-                    { text: 'Parte 6', url: 'https://www.mediafire.com/file/86xkr37ykor433x/HBMPG.GamezFull.part6.rar' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/ry55hdmvtrjnte3/HBMPG.GamezFull.part1.rar' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/01fiaobbb3l9qyk/HBMPG.GamezFull.part2.rar' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/angujsh5kmw3br1/HBMPG.GamezFull.part3.rar' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/m1w7c880a26trt4/HBMPG.GamezFull.part4.rar' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/bi5newenlkuyyvj/HBMPG.GamezFull.part5.rar' },
+                    { text: 'Part 6', url: 'https://www.mediafire.com/file/86xkr37ykor433x/HBMPG.GamezFull.part6.rar' }
                 ]
             }
         ],
@@ -374,18 +374,18 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Turok (2008)',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/wenjq69q8btisr3/T2008PG.GamezFull.com.part01.rar/file' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/lws7djotsqqkeka/T2008PG.GamezFull.com.part02.rar/file' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/pzaz1z8qf46fhxs/T2008PG.GamezFull.com.part03.rar/file' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/xchiz7lwdhm0ymx/T2008PG.GamezFull.com.part04.rar/file' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/u60kdrrnq8vl6or/T2008PG.GamezFull.com.part05.rar/file' },
-                    { text: 'Parte 6', url: 'https://www.mediafire.com/file/fs8a05y2277kbwz/T2008PG.GamezFull.com.part06.rar/file' },
-                    { text: 'Parte 7', url: 'https://www.mediafire.com/file/a3knseipq5lhqng/T2008PG.GamezFull.com.part07.rar/file' },
-                    { text: 'Parte 8', url: 'https://www.mediafire.com/file/stasdgkp4inon2f/T2008PG.GamezFull.com.part08.rar/file' },
-                    { text: 'Parte 9', url: 'https://www.mediafire.com/file/3fjrhtx2rwcscig/T2008PG.GamezFull.com.part09.rar/file' },
-                    { text: 'Parte 10', url: 'https://www.mediafire.com/file/8pxa4yinqoi0ql9/T2008PG.GamezFull.com.part10.rar/file' },
-                    { text: 'Parte 11', url: 'https://www.mediafire.com/file/36ps24je5got4xt/T2008PG.GamezFull.com.part11.rar/file' },
-                    { text: 'Parte 12', url: 'https://www.mediafire.com/file/n5fdeycfi5usuo2/T2008PG.GamezFull.com.part12.rar/file' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/wenjq69q8btisr3/T2008PG.GamezFull.com.part01.rar/file' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/lws7djotsqqkeka/T2008PG.GamezFull.com.part02.rar/file' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/pzaz1z8qf46fhxs/T2008PG.GamezFull.com.part03.rar/file' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/xchiz7lwdhm0ymx/T2008PG.GamezFull.com.part04.rar/file' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/u60kdrrnq8vl6or/T2008PG.GamezFull.com.part05.rar/file' },
+                    { text: 'Part 6', url: 'https://www.mediafire.com/file/fs8a05y2277kbwz/T2008PG.GamezFull.com.part06.rar/file' },
+                    { text: 'Part 7', url: 'https://www.mediafire.com/file/a3knseipq5lhqng/T2008PG.GamezFull.com.part07.rar/file' },
+                    { text: 'Part 8', url: 'https://www.mediafire.com/file/stasdgkp4inon2f/T2008PG.GamezFull.com.part08.rar/file' },
+                    { text: 'Part 9', url: 'https://www.mediafire.com/file/3fjrhtx2rwcscig/T2008PG.GamezFull.com.part09.rar/file' },
+                    { text: 'Part 10', url: 'https://www.mediafire.com/file/8pxa4yinqoi0ql9/T2008PG.GamezFull.com.part10.rar/file' },
+                    { text: 'Part 11', url: 'https://www.mediafire.com/file/36ps24je5got4xt/T2008PG.GamezFull.com.part11.rar/file' },
+                    { text: 'Part 12', url: 'https://www.mediafire.com/file/n5fdeycfi5usuo2/T2008PG.GamezFull.com.part12.rar/file' }
                 ]
             }
         ],
@@ -393,14 +393,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Crysis',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/s2gw40w4qsz4hgy/C1PGGOG_GamezFull.part1.rar' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/d77x7ir4aed7mzy/C1PGGOG_GamezFull.part2.rar' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/uqour43opfi8rko/C1PGGOG_GamezFull.part3.rar' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/07lo82a19s524is/C1PGGOG_GamezFull.part4.rar' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/77jx88vw2ej92bp/C1PGGOG_GamezFull.part5.rar' },
-                    { text: 'Parte 6', url: 'https://www.mediafire.com/file/45qk97e1x3dd595/C1PGGOG_GamezFull.part6.rar' },
-                    { text: 'Parte 7', url: 'https://www.mediafire.com/file/gkywbm79k59d68m/C1PGGOG_GamezFull.part7.rar' },
-                    { text: 'Parte 8', url: 'https://www.mediafire.com/file/ntdd9a1qlei28uq/C1PGGOG_GamezFull.part8.rar' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/s2gw40w4qsz4hgy/C1PGGOG_GamezFull.part1.rar' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/d77x7ir4aed7mzy/C1PGGOG_GamezFull.part2.rar' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/uqour43opfi8rko/C1PGGOG_GamezFull.part3.rar' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/07lo82a19s524is/C1PGGOG_GamezFull.part4.rar' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/77jx88vw2ej92bp/C1PGGOG_GamezFull.part5.rar' },
+                    { text: 'Part 6', url: 'https://www.mediafire.com/file/45qk97e1x3dd595/C1PGGOG_GamezFull.part6.rar' },
+                    { text: 'Part 7', url: 'https://www.mediafire.com/file/gkywbm79k59d68m/C1PGGOG_GamezFull.part7.rar' },
+                    { text: 'Part 8', url: 'https://www.mediafire.com/file/ntdd9a1qlei28uq/C1PGGOG_GamezFull.part8.rar' }
                 ]
             }
         ],
@@ -421,11 +421,11 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Alan Wake',
                 parts: [
-                    { text: 'Parte 1', url: 'https://cdn2.steamgriddb.com/grid/eae7aadd02dfcc93a198d256ec0833ed.jpg' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/y11tgfl4c676v4w/AWCCPG.GFZDCOMORG.part2.rar/file' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/zy0u2koxiix358o/AWCCPG.GFZDCOMORG.part3.rar/file' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/thxyajmkk87epk1/AWCCPG.GFZDCOMORG.part4.rar/file' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/ednd1vn9r99bcf3/AWCCPG.GFZDCOMORG.part5.rar/file' }
+                    { text: 'Part 1', url: 'https://cdn2.steamgriddb.com/grid/eae7aadd02dfcc93a198d256ec0833ed.jpg' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/y11tgfl4c676v4w/AWCCPG.GFZDCOMORG.part2.rar/file' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/zy0u2koxiix358o/AWCCPG.GFZDCOMORG.part3.rar/file' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/thxyajmkk87epk1/AWCCPG.GFZDCOMORG.part4.rar/file' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/ednd1vn9r99bcf3/AWCCPG.GFZDCOMORG.part5.rar/file' }
                 ]
             }
         ],
@@ -469,9 +469,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download Dread Templar',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/7cnafp4jkxop2bb/DTPG.v1.02b.GamezFull.com.part1.rar/file' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/nthejlbv95vdprs/DTPG.v1.02b.GamezFull.com.part2.rar/file' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/2j0zxiwz34g4v4r/DTPG.v1.02b.GamezFull.com.part3.rar/file' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/7cnafp4jkxop2bb/DTPG.v1.02b.GamezFull.com.part1.rar/file' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/nthejlbv95vdprs/DTPG.v1.02b.GamezFull.com.part2.rar/file' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/2j0zxiwz34g4v4r/DTPG.v1.02b.GamezFull.com.part3.rar/file' }
                 ]
             }
         ],
@@ -962,15 +962,15 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 text: 'Download La Tierra Media: Sombras de Mordor',
                 parts: [
-                    { text: 'Parte 1', url: 'https://www.mediafire.com/file/3p2jjz02i2g0qnf/Middl4_4arth_Shad8w_8f_M8rd8r.part1.rar/file' },
-                    { text: 'Parte 2', url: 'https://www.mediafire.com/file/ufa9ozsbbxbf647/Middl4_4arth_Shad8w_8f_M8rd8r.part2.rar/file' },
-                    { text: 'Parte 3', url: 'https://www.mediafire.com/file/236nbjbyqyijv2x/Middl4_4arth_Shad8w_8f_M8rd8r.part3.rar/file' },
-                    { text: 'Parte 4', url: 'https://www.mediafire.com/file/5oaamkhx135cqt5/Middl4_4arth_Shad8w_8f_M8rd8r.part4.rar/file' },
-                    { text: 'Parte 5', url: 'https://www.mediafire.com/file/iwc3oh7xck6ulmb/Middl4_4arth_Shad8w_8f_M8rd8r.part5.rar/file' },
-                    { text: 'Parte 6', url: 'https://www.mediafire.com/file/texn0g6427vcmza/Middl4_4arth_Shad8w_8f_M8rd8r.part6.rar/file' }
+                    { text: 'Part 1', url: 'https://www.mediafire.com/file/3p2jjz02i2g0qnf/Middl4_4arth_Shad8w_8f_M8rd8r.part1.rar/file' },
+                    { text: 'Part 2', url: 'https://www.mediafire.com/file/ufa9ozsbbxbf647/Middl4_4arth_Shad8w_8f_M8rd8r.part2.rar/file' },
+                    { text: 'Part 3', url: 'https://www.mediafire.com/file/236nbjbyqyijv2x/Middl4_4arth_Shad8w_8f_M8rd8r.part3.rar/file' },
+                    { text: 'Part 4', url: 'https://www.mediafire.com/file/5oaamkhx135cqt5/Middl4_4arth_Shad8w_8f_M8rd8r.part4.rar/file' },
+                    { text: 'Part 5', url: 'https://www.mediafire.com/file/iwc3oh7xck6ulmb/Middl4_4arth_Shad8w_8f_M8rd8r.part5.rar/file' },
+                    { text: 'Part 6', url: 'https://www.mediafire.com/file/texn0g6427vcmza/Middl4_4arth_Shad8w_8f_M8rd8r.part6.rar/file' }
                 ]
             },
-            { text: 'Download parche', url: 'https://d2.consoletarget.com/?y=798093de&x=Y9IUMSpqEb8axjvBtdSbBbZ7PJ49es%2B0FpGvEVgGb6g97AmcrY%2FMO9H%2F3AhguMj4P0xCn%2B6tJeJGLI7GLWreiWm2AUUufANiGX15AFWVaqe4WsWmOMg8iiEnDaThhLXw', readMoreText: 'El juego estará en inglés luego de aplicar el crack que tiene incluído. Para solucionar esto: descarga el parche, aplícalo reemplazando los archivos originales, y asegúrate de que el parámetro "Language" del archivo "steam_api.ini" esté en "spanish", de manera que se vea así:\n"Language=spanish" sin las comillas.\n\nMuy probablemente el parche sea marcado como virus o amenaza por tu navegador o tu antivirus. Asegúrate de permitir el archivo en tu sistema. No es dañino.' }
+            { text: 'Download Patch', url: 'https://d2.consoletarget.com/?y=798093de&x=Y9IUMSpqEb8axjvBtdSbBbZ7PJ49es%2B0FpGvEVgGb6g97AmcrY%2FMO9H%2F3AhguMj4P0xCn%2B6tJeJGLI7GLWreiWm2AUUufANiGX15AFWVaqe4WsWmOMg8iiEnDaThhLXw', readMoreText: 'El juego estará en inglés luego de aplicar el crack que tiene incluído. Para solucionar esto: descarga el Patch, aplícalo reemplazando los archivos originales, y asegúrate de que el parámetro "Language" del archivo "steam_api.ini" esté en "spanish", de manera que se vea así:\n"Language=spanish" sin las comillas.\n\nMuy probablemente el Patch sea marcado como virus o amenaza por tu navegador o tu antivirus. Asegúrate de permitir el archivo en tu sistema. No es dañino.' }
         ],
         'helicopter-simulator-sar': [
             { text: 'Download Helicopter Simulator 2014: Search & Rescue', url: 'https://www.mediafire.com/file/oq34au9hpcw6vgi/H3l1c8pt3r_S1mul4t8r_S34rch_%2526_R3scu3.rar/file' }
