@@ -1971,7 +1971,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     const readMoreToggle = document.createElement('span');
                     readMoreToggle.className = 'read-more-toggle';
-                    readMoreToggle.textContent = 'Detalles';
+                    readMoreToggle.textContent = '';
 
 
                     const detailsText = linkInfo.readMoreText;
