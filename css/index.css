@@ -331,6 +331,7 @@ header.site-header {
     margin-bottom: 15px;
     font-size: 2em;
     font-weight: 600;
+    font-family: "Audiowide", sans-serif;
     color: #ffffff;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     position: relative;
@@ -354,12 +355,14 @@ header.site-header {
     padding: 0;
     margin-top: 15px;
     margin-bottom: 0;
+    font-family: "Audiowide", sans-serif;
 }
 
 
 #modalDownloadLinks li {
     margin-bottom: 7px;
     position: relative;
+    font-family: "Audiowide", sans-serif;
     transition: margin-bottom 0.4s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
