@@ -87,6 +87,44 @@ header.site-header {
     z-index: 1100;
     box-sizing: border-box;
 }
+#phone-menu {
+    /* Keep it rendered but position it completely off-screen to the left */
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(10px);
+    position: fixed;   
+    top: 0;            
+    left: 0; /* Anchored to the left side */
+    z-index: 1006;     
+
+    /* Move the menu 100% of its own width to the left (hidden) */
+    transform: translateX(-100%); 
+    
+    /* Control the speed and feel of the slide animation */
+    transition: transform 0.4s ease-in-out; 
+}
+
+/* When JS adds this class, slide it back to its original position */
+#phone-menu.menu-open {
+    transform: translateX(0);
+}
+
+#phone-menu button {
+    color: white;
+    background: #333;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+
 .footer{
     display: flex;
     flex-direction: column;
@@ -798,14 +836,11 @@ body.modal-blur-active>*:not(#downloadModal):not(#detailsModal):not(#partsModal)
         position: absolute;
         
     } 
-    .header-center {
-        
-    }
+    
     .filter-group{
-        display: none;
+       visibility: hidden;
     }
-
-
+    
     #searchBar {
        width: 100%;
     }
@@ -1024,17 +1059,7 @@ body.modal-blur-active>*:not(#downloadModal):not(#detailsModal):not(#partsModal)
 @media (max-width: 768px) {
     .filter-wrapper {
         justify-content: center;
-    }
-
-    .filter-menu {
-        right: 50%;
-        transform: translateX(50%) translateY(-10px);
-        width: 90%;
-        max-width: 320px;
-    }
-
-    .filter-menu.is-open {
-        transform: translateX(50%) translateY(0);
+        z-index: 3000;
     }
 }
 
@@ -1095,22 +1120,7 @@ body.modal-blur-active>*:not(#downloadModal):not(#detailsModal):not(#partsModal)
     content: '✓';
     font-weight: bold;
 }
-
-@media (max-width: 768px) {
-    .filter-wrapper {
-        justify-content: center;
-    }
-
-    .filter-menu {
-        right: auto;
-        left: 50%;
-        transform: translateX(-50%) translateY(-10px);
-    }
-
-    .filter-menu.is-open {
-        transform: translateX(-50%) translateY(0);
-    }
-}.filter-wrapper {
+.filter-wrapper {
     display: flex;
     justify-content: flex-end;
     gap: 12px;
