@@ -8,6 +8,7 @@
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
   <a href="#disclaimer">Disclaimer</a> •
+  <a href="../../issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md" target="_blank">Request Feature</a> •
   <a href="https://github.com/Vicioware" target="_blank">Original Creator</a>
 </p>
 
