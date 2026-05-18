@@ -19,11 +19,11 @@
 
 <p align="center">
   
-  <img width="1280" height="817" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ec2b8bac-4846-46e8-bc04-d2ec4cb709e4" />
-  <img width="1280" height="817" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/47ea69bd-4f95-461a-b9ee-af4db81c8623" />
-  <img width="1280" height="819" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4d23777c-400c-4c87-a711-6dd375ba0deb" />
-  <img width="100%" alt="Vicioware Preview" src="https://github.com/user-attachments/assets/bee352ee-196d-4217-8c51-7c8fb676354f" />
-  <img width="1280" height="819" alt="Screenshot (6) (1)" src="https://github.com/user-attachments/assets/459a9a1e-fbef-4f2c-8b11-786ce582ca52" />
+  <img width="100%" alt="Vicioware Preview 1" src="https://github.com/user-attachments/assets/ec2b8bac-4846-46e8-bc04-d2ec4cb709e4" />
+  <img width="100%" alt="Vicioware Preview 2" src="https://github.com/user-attachments/assets/47ea69bd-4f95-461a-b9ee-af4db81c8623" />
+  <img width="100%" alt="Vicioware Preview 3" src="https://github.com/user-attachments/assets/4d23777c-400c-4c87-a711-6dd375ba0deb" />
+  <img width="100%" alt="Vicioware Preview 4" src="https://github.com/user-attachments/assets/bee352ee-196d-4217-8c51-7c8fb676354f" />
+  <img width="100%" alt="Vicioware Preview 5" src="https://github.com/user-attachments/assets/459a9a1e-fbef-4f2c-8b11-786ce582ca52" />
  
 </p>
 
